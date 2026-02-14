@@ -3,16 +3,14 @@
 apply plugin: 'com.android.application'
 android {
     namespace 'xyz.server.scrcpy'
-
-    compileSdkVersion 33
+    compileSdk 35
     defaultConfig {
         applicationId "xyz.server.scrcpy"
         minSdkVersion 21
-        targetSdkVersion 33
-        versionCode version_code
-        versionName app_version
+        targetSdk 35
+        versionCode 23
+        versionName '1.3.5'
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-
     }
 
     buildFeatures{
