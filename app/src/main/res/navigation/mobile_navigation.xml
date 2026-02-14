@@ -22,4 +22,10 @@
         android:name="com.tuke.tools.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_adb_helper"
+        android:name="com.tuke.tools.ui.adbhelper.AdbHelperFragment"
+        android:label="@string/menu_adb_helper"
+        tools:layout="@layout/fragment_adb_helper" />
 </navigation>
