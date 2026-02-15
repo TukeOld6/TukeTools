@@ -1,5 +1,7 @@
 package com.tuke.tools.scrcpy;
 
+import com.tuke.tools.R;
+
 import android.annotation.SuppressLint;
 import androidx.annotation.NonNull;
 import android.app.Activity;
