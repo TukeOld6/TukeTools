@@ -1,5 +1,6 @@
 package com.tuke.tools.scrcpy;
 
+import com.tuke.tools.R;
 import android.content.Context;
 import android.util.AttributeSet;
 import android.util.DisplayMetrics;

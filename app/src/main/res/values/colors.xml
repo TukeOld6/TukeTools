@@ -7,4 +7,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="header_primary">@android:color/holo_blue_light</color>
+    <color name="status_bar">#3C93F0</color>
+    <color name="theme_color">#1D2228</color>
 </resources>
