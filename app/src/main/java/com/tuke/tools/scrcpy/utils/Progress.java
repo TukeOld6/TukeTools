@@ -17,7 +17,7 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.tuke.tools.scrcpy.R;
+import com.tuke.tools.R;
 
 public final class Progress {
 
